@@ -11,5 +11,5 @@
 <h4>Watch the Animation for Construction</h4> https://drive.google.com/file/d/1hD3F8CT74-MD7RCmw2ctgjAAJ5cjIxS2/view?usp=drive_link
 <hr>
 <img src="./assects/cover2.png">
-<h4>Watch the Animation for Construction</h4> https://drive.google.com/file/d/1cphloqFsOtWGIAarRP05VB_yXaZhYffm/view?usp=drive_link
+<h4>Watch the Animation for Operation</h4> https://drive.google.com/file/d/1cphloqFsOtWGIAarRP05VB_yXaZhYffm/view?usp=drive_link
 <hr>
