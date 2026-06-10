@@ -3,5 +3,7 @@
 <h2>Below is a collection of the 3D models and high-fidelity animations engineered and rendered for the competition. These deliverables were developed and executed entirely by me as a solo creator. From initial conceptual design to final rendering, this section showcases my ability to deliver full-scale engineering and creative assets independently.</h2>
 
 <h3>📸 Model Gallery</h3>
-<img src="Valve_Assembly.png">
+<img src="./assects/outer.jpg">
+
 <h3>🎬 Cinematic Animation</h3>
+<img src="./assects/cover1.jpg">
