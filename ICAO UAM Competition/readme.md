@@ -4,6 +4,9 @@
 
 <h3>📸 Model Gallery</h3>
 <img src="./assects/outer.jpg">
-
+<img src="./assects/outer 2.jpg">
+<img src="./assects/at night.jpg">
 <h3>🎬 Cinematic Animation</h3>
-<img src="./assects/cover1.jpg">
+<img src="./assects/cover1.png">
+
+<img src="./assects/cover2.png">
