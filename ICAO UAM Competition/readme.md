@@ -1,6 +1,6 @@
 <h1 align=center >ICAO UAM Competition</h1>
 
-<h2>Below is a collection of the 3D models and high-fidelity animations engineered and rendered for the competition. These deliverables were developed and executed entirely by me as a solo creator. From initial conceptual design to final rendering, this section showcases my ability to deliver full-scale engineering and creative assets independently.</h2>
+<h2>Below is a collection of 3D models and high-fidelity animations created and rendered for the competition. All deliverables were independently designed and developed by me, from the initial concept and modeling stages to the final rendering and presentation.</h2>
 
 <h3>📸 Model Gallery</h3>
 <img src="./assects/outer.jpg">
